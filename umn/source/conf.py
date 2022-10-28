@@ -93,7 +93,7 @@ html_static_path = ['_static']
 
 # -- Options for PDF output --------------------------------------------------
 latex_documents = [
-('index',
+    ('index',
      'waf-umn.tex',
      u'Web Application Firewall - User Guide',
      u'OpenTelekomCloud', 'manual'),
