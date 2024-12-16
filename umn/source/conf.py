@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'waf-umn.tex',
-     u'Web Application Firewall - User Guide',
+    u'Web Application Firewall - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 
