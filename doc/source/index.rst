@@ -10,4 +10,9 @@ Web Application Firewall (WAF) keeps web services stable and secure. It examines
    .. service_card::
       :service_type: waf
       :umn: This document helps you know about the Web Application Firewall (WAF) and guide you on how to use the service.
-      :api-ref: This document describes application programming interfaces (APIs) of the Web Application Firewall (WAF) and provides API parameter description and example values.	  
+      :api-ref: This document describes application programming interfaces (APIs) of the Web Application Firewall (WAF) and provides API parameter description and example values.
+
+   .. service_card_link::
+      :title: Best Practices
+      :url: https://arch.otc-service.com/docs/best-practices/security-services/web-application-firewall
+      :description: Discover our best practices for optimizing cloud-based solutions, focusing on architectural principles that ensure reliability, scalability, security, high availability, and fault tolerance in the Open Telekom Cloud Architecture Center.
