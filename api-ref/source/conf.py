@@ -26,7 +26,7 @@ extensions = [
 otcdocs_auto_name = False
 otcdocs_auto_version = False
 
-project = 'Web Application Firewall'
+project = 'Web Application Firewall (Classic)'
 otcdocs_repo_name = 'opentelekomcloud-docs/web-application-firewall'
 # Those variables are required for edit/bug links
 
@@ -36,7 +36,7 @@ otcdocs_doc_link = '/web-application-firewall/api-ref/'
 otcdocs_doc_title = 'API Reference'
 otcdocs_doc_type = 'api-ref'
 otcdocs_service_category = 'security-services'
-otcdocs_service_title = 'Web Application Firewall'
+otcdocs_service_title = 'Web Application Firewall (Classic)'
 otcdocs_service_type = 'waf'
 otcdocs_service_environment = 'public'
 otcdocs_cloud_environment = 'eu_de'
@@ -98,7 +98,7 @@ html_theme_options = {
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 
-html_title = "Web Application Firewall - API Reference"
+html_title = "Web Application Firewall (Classic) - API Reference"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -114,7 +114,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'waf-api-ref.tex',
-    u'Web Application Firewall - API Reference',
+    u'Web Application Firewall (Classic) - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
